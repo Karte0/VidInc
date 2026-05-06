@@ -1,0 +1,10 @@
+{
+  "dataset": "ucf",
+  "Image": "",
+  "Audio": "",
+  "num_class": 101,
+  "train_list": "",
+  "val_list": "",
+  "test_list": "",
+  "retrieval_list": ""
+}

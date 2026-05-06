@@ -1,0 +1,10 @@
+{
+  "dataset": "fcvid",
+  "Image": "",
+  "Audio": "",
+  "num_class": 239,
+  "train_list": "",
+  "val_list": "",
+  "test_list": "",
+  "retrieval_list": ""
+}
